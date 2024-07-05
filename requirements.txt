@@ -1,2 +1,2 @@
-joblib
-regex
+regex==2024.5.15
+numpy==1.19.3

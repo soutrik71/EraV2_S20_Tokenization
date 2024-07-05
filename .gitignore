@@ -1,0 +1,51 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+venv1/
+.venv/
+.venv1/
+env/
+ENV/
+env.bak/
+ENV.bak/
+env1/
+ENV1/
+.venv/
+.venv1/
+env/
+ENV/
+env.bak/
+ENV.bak/
+env1/
+ENV1/
+.venv/
+.venv1/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Data
+data/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+*.swp
+.DS_Store
+data/
